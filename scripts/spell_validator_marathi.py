@@ -145,3 +145,11 @@ df["user_correction_flag"] = df.apply(
 # -----------------------------
 df.to_excel(OUTPUT, index=False)
 print("\n✔ DONE — Output saved to:", OUTPUT)
+
+# gaiekwad
+# gaikwad
+# gayakwad
+# gwad
+# gaykwad
+# grayward lol 
+# its not possible to spot out mistakes like that
